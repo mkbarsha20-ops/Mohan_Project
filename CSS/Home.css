@@ -1,0 +1,89 @@
+h1{color:brown;}
+
+.Library{
+    color:rgb(87, 184, 87);
+    border: 3px solid;
+    text-align:center;
+    text-decoration: underline;
+    font-size: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    
+}
+.Dehradun{
+    color:rgb(181, 115, 115);
+    color: blue;
+    border: 2px solid red;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 80px;
+
+
+}
+.image{text-align: center;
+
+}
+
+.Libraries-in-dehradun{
+    color:read-only;
+    border: 2px solid red;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 80px;
+}
+.About{
+    color:orange;
+    border: 3px solid red;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 80px;
+
+}
+.fifthDivision{
+    color:rgb(40, 9, 72);
+    border:3px solid red;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 80px;
+
+}
+.SixthDivision{
+    color:rgb(40, 9, 72);
+    border:3px solid greenyellow;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 40px;   
+}
+
+.Location{
+    color:blue;
+    border:3px solid greenyellow;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 100px;   
+
+}
+.ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+.ul li {
+  float: left;
+}
+
+.ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #111111;
+}
+
